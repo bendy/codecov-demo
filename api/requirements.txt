@@ -1,7 +1,7 @@
 blinker==1.9.0
 boto==2.49.0
 click==8.3.1
--e git+ssh://git@github.com/facebookresearch/codellama.git@e66609cfbd73503ef25e597fd82c59084836155d#egg=codellama
+-e git+https://github.com/facebookresearch/codellama.git@e66609cfbd73503ef25e597fd82c59084836155d#egg=codellama
 coverage==7.13.2
 fairscale==0.4.13
 filelock==3.13.1
